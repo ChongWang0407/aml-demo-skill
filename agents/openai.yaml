@@ -1,0 +1,6 @@
+interface:
+  display_name: "AI Muse Lab Demo Skill"
+  short_description: "AI Muse Lab 专属 Apple + Liquid Glass Demo 工作流"
+  default_prompt: "Use $aml-demo-skill to turn my AI Muse Lab product idea into Apple-style Liquid Glass prototype options and a polished final demo."
+policy:
+  allow_implicit_invocation: true
